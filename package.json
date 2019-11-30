@@ -1,0 +1,12 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ivanCanaveral/algorithms-and-data-structures",
+  "author": "ivanCanaveral <canaveral.ivan@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "typescript": "^3.7.2"
+  }
+}
